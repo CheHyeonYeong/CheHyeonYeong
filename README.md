@@ -29,11 +29,18 @@
 - 블로그: [CoHe](https://code-chy.tistory.com/)
 
 ## 🔧 기술 스택
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+
 
 
 ## 🛠 프로젝트
@@ -41,10 +48,18 @@
 ### Do-Tori
 - Todo 공유 및, 질문과 답변을 주고받을 수 있는 커뮤니티 제작
 - code : [🌰Do-Tori](https://github.com/CheHyeonYeong/Do-tori)
+- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+
 
 ### 2NY
 - 여성을 위한 맞춤형 쇼핑몰 플랫폼 제작
 - code : [2NY Frontend](https://github.com/ToriArtis/2NY-Frontend) || [2NY Backend](https://github.com/ToriArtis/2NY-Backend)
+- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+### #소식(消息): Cover the Bitters
+- 게임 속에서 드러나는 단서들로 플레이어는 개인의 판단을 통해 이 수상한 바에서 누구와 친해질지 결정하고, 살아남아야 한다.
+- code : [소식(消息): Cover the Bitters](https://github.com/greenTeaFrappe/ToyProject)
+- skills : ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp) ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 
 
 
