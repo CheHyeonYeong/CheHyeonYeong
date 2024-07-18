@@ -5,28 +5,29 @@
 # 안녕 CheHyeonYeong's repository👋
 
 ## Who is ME?
-<div style="display: flex;">
-  <div style="flex: 30%; padding: 10px;">
-    <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F78e18357-2034-415a-8a60-a250f60ea23d%2FUntitled.png?table=block&id=59280f5c-7dd9-4398-9c91-8565f6e1f0ca&spaceId=65d47488-3ffd-440e-b655-cb7516b09d13&width=2000&userId=7f83f7e5-6931-4899-adc6-68389399760a&cache=v2">
-  </div>
-  <div style="flex: 70%; padding: 10px;">
 
-    > 안녕 world!
+<table style="width:100%;">
+  <tr>
+    <td style="width:30%; vertical-align: top;">
+      <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F78e18357-2034-415a-8a60-a250f60ea23d%2FUntitled.png?table=block&id=59280f5c-7dd9-4398-9c91-8565f6e1f0ca&spaceId=65d47488-3ffd-440e-b655-cb7516b09d13&width=2000&userId=7f83f7e5-6931-4899-adc6-68389399760a&cache=v2">
+    </td>
+    <td style="width:70%; vertical-align: top;">
+        > 안녕 world!
 
-    안녕은 만났을 때와 헤어질 때 모두 사용할 수 있는 인삿말입니다.
-    이제 사회의 첫 발을 딛으며 학생을 졸업하는 채현영이 사회에게 인사하고자 "안녕, world!"라는 인삿말을 붙였습니다.
+        안녕은 만났을 때와 헤어질 때 모두 사용할 수 있는 인삿말입니다.
+        이제 사회의 첫 발을 딛으며 학생을 졸업하는 채현영이 사회에게 인사하고자 "안녕, world!"라는 인삿말을 붙였습니다.
 
-    > “효율성을 위해 오늘도 달립니다.”
-    
-    호기심이 생기면 바로 도전하며 효율적인 업무 수행을 위해 늘 고민합니다. 특히 프로젝트를 진행할 때 결과물의 품질과 시간 절약을 동시에 이끌어내고자 합니다.
-    
-    > 꾸준히 성장하는 사람이 되기 위해 다짐합니다.
-    
-    멈춤은 NO! 항상 나아가기 위해 빠르게 도전하고 실행하겠습니다.
+        > “효율성을 위해 오늘도 달립니다.”
+        
+        호기심이 생기면 바로 도전하며 효율적인 업무 수행을 위해 늘 고민합니다. 특히 프로젝트를 진행할 때 결과물의 품질과 시간 절약을 동시에 이끌어내고자 합니다.
+        
+        > 꾸준히 성장하는 사람이 되기 위해 다짐합니다.
+        
+        멈춤은 NO! 항상 나아가기 위해 빠르게 도전하고 실행하겠습니다.
+    </td>
+  </tr>
+</table>
 
-
-  </div>
-</div>
 
 ## 📫 연락처
 
