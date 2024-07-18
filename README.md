@@ -7,7 +7,7 @@
 <table style="width:100%;">
   <tr>
     <td style="width:30%; vertical-align: top;">
-      <img src="![채현영 프로필 사진](https://github.com/user-attachments/assets/4dc6fa05-ded0-42f7-a8ef-ddee03046875)" alt="안녕 현영이" />
+      <img src="/채현영 프로필 사진.png" alt="안녕 현영이" />
     </td>
     <td style="width:70%; vertical-align: top;">
     
