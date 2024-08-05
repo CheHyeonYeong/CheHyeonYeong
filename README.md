@@ -3,7 +3,6 @@
 # 안녕 CheHyeonYeong's repository👋
 
 ## Who is ME?
-
     
   > 안녕 world!
 
@@ -100,6 +99,13 @@
 
 ## 💬 문의
 
-더 궁금한 점이 있거나 문의 사항이 있으면 연락주세요!
+지금까지 안녕을 말하던 채현영이었습니다.
+혹시 커피챗이나 입사 제안을 하고 싶다면, 해당 연락처로 연락 부탁드립니다:
+
+- 이메일: [chehyeonyeong@gmail.com](mailto:chehyeonyeong@gmail.com)
+- GitHub: [CheHyeonYeong](https://github.com/CheHyeonYeong)
+- LinkedIn: [채현영](https://www.linkedin.com/in/%ED%98%84%EC%98%81-%EC%B1%84-8b230b255/)
+- 블로그: [CoHe](https://code-chy.tistory.com/)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff9945&height=200&section=footer)
