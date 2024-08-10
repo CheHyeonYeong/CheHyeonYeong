@@ -55,11 +55,10 @@
 - code : [2NY Frontend](https://github.com/ToriArtis/2NY-Frontend) || [2NY Backend](https://github.com/ToriArtis/2NY-Backend)
 - skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-### #소식(消息): Cover the Bitters
-- 게임 속에서 드러나는 단서들로 플레이어는 개인의 판단을 통해 이 수상한 바에서 누구와 친해질지 결정하고, 살아남아야 한다.
-- code : [소식(消息): Cover the Bitters](https://github.com/greenTeaFrappe/ToyProject)
-- skills : ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp) ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
-
+### Modi
+- 나의 MBTI는 모디?
+- code : [MODI](https://github.com/CheHyeonYeong/Modi)
+- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
 
 ## 📈 GitHub 통계
