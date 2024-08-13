@@ -27,6 +27,24 @@
 - LinkedIn: [채현영](https://www.linkedin.com/in/%ED%98%84%EC%98%81-%EC%B1%84-8b230b255/)
 - 블로그: [CoHe](https://code-chy.tistory.com/)
 
+# 🛠 프로젝트
+
+## Do-Tori
+- Todo 공유 및, 질문과 답변을 주고받을 수 있는 커뮤니티 제작
+- code : [🌰Do-Tori](https://github.com/CheHyeonYeong/Do-tori)
+- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+
+
+## 2NY
+- 여성을 위한 맞춤형 쇼핑몰 플랫폼 제작
+- code : [2NY Frontend](https://github.com/ToriArtis/2NY-Frontend) || [2NY Backend](https://github.com/ToriArtis/2NY-Backend)
+- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+## Modi
+- 나의 MBTI는 모디?
+- code : [MODI](https://github.com/CheHyeonYeong/Modi)
+- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+
 ## 🔧 기술 스택
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -38,27 +56,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-
-
-
-## 🛠 프로젝트
-
-### Do-Tori
-- Todo 공유 및, 질문과 답변을 주고받을 수 있는 커뮤니티 제작
-- code : [🌰Do-Tori](https://github.com/CheHyeonYeong/Do-tori)
-- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-
-
-### 2NY
-- 여성을 위한 맞춤형 쇼핑몰 플랫폼 제작
-- code : [2NY Frontend](https://github.com/ToriArtis/2NY-Frontend) || [2NY Backend](https://github.com/ToriArtis/2NY-Backend)
-- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-### Modi
-- 나의 MBTI는 모디?
-- code : [MODI](https://github.com/CheHyeonYeong/Modi)
-- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
 
 ## 📈 GitHub 통계
