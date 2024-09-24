@@ -43,6 +43,7 @@
 - skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
 
+ㅎㅎ.. 이제 취직했지롱
 ## 2NY
 - 여성을 위한 맞춤형 쇼핑몰 플랫폼 제작
 - code : [2NY Frontend](https://github.com/ToriArtis/2NY-Frontend) || [2NY Backend](https://github.com/ToriArtis/2NY-Backend)
