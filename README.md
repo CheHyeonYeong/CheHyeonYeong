@@ -26,14 +26,7 @@
     height="120"
   />
 </a>
-  
 
-## 📫 연락처
-
-- 이메일: [chehyeonyeong@gmail.com](chehyeonyeong@gmail.com)
-- GitHub: [CheHyeonYeong](https://github.com/CheHyeonYeong)
-- LinkedIn: [채현영](https://www.linkedin.com/in/%ED%98%84%EC%98%81-%EC%B1%84-8b230b255/)
-- 블로그: [CoHe](https://code-chy.tistory.com/)
 
 # 🛠 프로젝트
 
@@ -42,8 +35,6 @@
 - code : [🌰Do-Tori](https://github.com/CheHyeonYeong/Do-tori)
 - skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
-
-ㅎㅎ.. 이제 취직했지롱
 ## 2NY
 - 여성을 위한 맞춤형 쇼핑몰 플랫폼 제작
 - code : [2NY Frontend](https://github.com/ToriArtis/2NY-Frontend) || [2NY Backend](https://github.com/ToriArtis/2NY-Backend)
@@ -82,6 +73,6 @@
 - GitHub: [CheHyeonYeong](https://github.com/CheHyeonYeong)
 - LinkedIn: [채현영](https://www.linkedin.com/in/%ED%98%84%EC%98%81-%EC%B1%84-8b230b255/)
 - 블로그: [CoHe](https://code-chy.tistory.com/)
-
+  
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff9945&height=200&section=footer)
