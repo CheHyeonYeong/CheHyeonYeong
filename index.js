@@ -103,8 +103,6 @@ const parser = new Parser({
     // 피드 목록
     const feed = await parser.parseURL('https://code-chy.tistory.com/rss'); // 본인의 블로그 주소
     
-    text += footer;
-    
     // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
     for (let i = 0; i < 10; i++) {
         const {title, link} = feed.items[i];
@@ -116,7 +114,7 @@ const parser = new Parser({
 
     text += `</ul>`;
     
-    text += `</ul>`;
+    text += footer;
     // README.md 파일 생성
     writeFileSync('README.md', text, 'utf8', (e) => {
         console.log(e);
