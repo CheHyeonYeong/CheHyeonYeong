@@ -64,7 +64,7 @@
 
 ## 📕 Latest Blog Posts
 
-
+<li><a href='https://code-chy.tistory.com/195' target='_blank'>[project] 굿즈 마켓 플레이스 기획 - 4차</a></li><li><a href='https://code-chy.tistory.com/194' target='_blank'>2025년 2월 회고록</a></li><li><a href='https://code-chy.tistory.com/193' target='_blank'>20250302</a></li><li><a href='https://code-chy.tistory.com/192' target='_blank'>20250301 커피챗</a></li><li><a href='https://code-chy.tistory.com/191' target='_blank'>20250228</a></li><li><a href='https://code-chy.tistory.com/190' target='_blank'>[project] 굿즈 마켓 플레이스 기획 - 3차</a></li><li><a href='https://code-chy.tistory.com/189' target='_blank'>[project] 굿즈 마켓 플레이스 기획 - 2차</a></li><li><a href='https://code-chy.tistory.com/188' target='_blank'>[project] 굿즈 마켓 플레이스 기획 - 1차</a></li><li><a href='https://code-chy.tistory.com/187' target='_blank'>리눅스마스터 2급 20231209 오답 1</a></li><li><a href='https://code-chy.tistory.com/185' target='_blank'>리눅스 시스템 관리 - 프로세스 관리와 편집기</a></li></ul>
 
 <br>
 
@@ -81,4 +81,3 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff9945&height=200&section=footer)
 
-<li><a href='https://code-chy.tistory.com/195' target='_blank'>[project] 굿즈 마켓 플레이스 기획 - 4차</a></li><li><a href='https://code-chy.tistory.com/194' target='_blank'>2025년 2월 회고록</a></li><li><a href='https://code-chy.tistory.com/193' target='_blank'>20250302</a></li><li><a href='https://code-chy.tistory.com/192' target='_blank'>20250301 커피챗</a></li><li><a href='https://code-chy.tistory.com/191' target='_blank'>20250228</a></li><li><a href='https://code-chy.tistory.com/190' target='_blank'>[project] 굿즈 마켓 플레이스 기획 - 3차</a></li><li><a href='https://code-chy.tistory.com/189' target='_blank'>[project] 굿즈 마켓 플레이스 기획 - 2차</a></li><li><a href='https://code-chy.tistory.com/188' target='_blank'>[project] 굿즈 마켓 플레이스 기획 - 1차</a></li><li><a href='https://code-chy.tistory.com/187' target='_blank'>리눅스마스터 2급 20231209 오답 1</a></li><li><a href='https://code-chy.tistory.com/185' target='_blank'>리눅스 시스템 관리 - 프로세스 관리와 편집기</a></li></ul></ul>
