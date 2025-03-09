@@ -4,7 +4,7 @@
   "description": "![header](https://capsule-render.vercel.app/api?type=waving&color=ff9945&fontColor=FFFFFF&height=300&section=header&text=🥕HyeonYeong's%20Hub🥕&fontSize=50)",
   "main": "index.js",
   "type": "module",
-  "scripts": { 
+  "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
