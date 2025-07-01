@@ -19,9 +19,15 @@
   
   멈춤은 NO! 항상 나아가기 위해 빠르게 도전하고 실행하겠습니다.
 
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/CheHyeonYeong"/>
+  <img
+    src="https://render.gitanimals.org/lines/CheHyeonYeong"
+    width="600"
+    height="120"
+  />
 </a>
+
 
 # 🛠 프로젝트
 
