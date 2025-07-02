@@ -26,8 +26,12 @@ let text = `
   
   멈춤은 NO! 항상 나아가기 위해 빠르게 도전하고 실행하겠습니다.
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/CheHyeonYeong"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=CheHyeonYeong&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/CheHyeonYeong"
+  width="600"
+  height="300"
+/>
 </a>
 
 # 🛠 프로젝트
