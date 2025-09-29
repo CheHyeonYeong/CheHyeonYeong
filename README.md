@@ -27,32 +27,11 @@
 />
 </a>
 
-# 🛠 프로젝트
-
-## Do-Tori
-- Todo 공유 및, 질문과 답변을 주고받을 수 있는 커뮤니티 제작
-- code : [🌰Do-Tori](https://github.com/CheHyeonYeong/Do-tori)
-- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-
-## 2NY
-- 여성을 위한 맞춤형 쇼핑몰 플랫폼 제작
-- code : [2NY Frontend](https://github.com/ToriArtis/2NY-Frontend) || [2NY Backend](https://github.com/ToriArtis/2NY-Backend)
-- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-## Modi
-- 나의 MBTI는 모디?
-- code : [MODI](https://github.com/CheHyeonYeong/Modi)
-- skills : ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
 ## 🔧 기술 스택
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 📈 GitHub 통계
