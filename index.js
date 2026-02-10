@@ -40,12 +40,6 @@ let text = `
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 
-
-## 📈 GitHub 통계
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chehyeonyeong&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chehyeonyeong&layout=compact&theme=radical)
-
 ## 📕 Latest Blog Posts
 
 `;
