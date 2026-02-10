@@ -33,12 +33,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 
-
-## 📈 GitHub 통계
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chehyeonyeong&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chehyeonyeong&layout=compact&theme=radical)
-
 ## 📕 Latest Blog Posts
 
 <li><a href='https://code-chy.tistory.com/234' target='_blank'>DDIA-Chapter 5. 복제 (Replication)</a></li><li><a href='https://code-chy.tistory.com/233' target='_blank'>Git Submodule</a></li><li><a href='https://code-chy.tistory.com/229' target='_blank'>면접 준비 이모저모 - Spring</a></li><li><a href='https://code-chy.tistory.com/228' target='_blank'>면접 준비 이모저모 - Java 기초 개념</a></li><li><a href='https://code-chy.tistory.com/227' target='_blank'>10장: 실행 계획</a></li><li><a href='https://code-chy.tistory.com/226' target='_blank'>릴마큐 09장: 옵티마이저와 힌트</a></li><li><a href='https://code-chy.tistory.com/225' target='_blank'>이펙티브 자바 11장, 12장 직렬화 : 에러</a></li><li><a href='https://code-chy.tistory.com/224' target='_blank'>이펙티브 자바 10장 : 에러</a></li><li><a href='https://code-chy.tistory.com/223' target='_blank'>mysql 인덱스</a></li><li><a href='https://code-chy.tistory.com/222' target='_blank'>이펙티브 자바 9장: 좋은 코드를 위한 일반적인 프로그래밍 원칙 (Items 57~68)</a></li></ul>
