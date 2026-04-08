@@ -1,23 +1,30 @@
+## Introduction
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff9945&fontColor=FFFFFF&height=300&section=header&text=🥕HyeonYeong's%20Hub🥕&fontSize=50)
+안녕하세요. 최근에 [velog](https://velog.io/@gusdudco6/posts)와 [tistory](https://code-chy.tistory.com/)를 운영하고 있어요.
 
-# 안녕 CheHyeonYeong's repository👋
+## Open Source Contribution
 
-## Who is ME?
-    
-  > 안녕 world!
+[**aws/aws-sdk-java-v2**](https://github.com/aws/aws-sdk-java-v2)  
+[PR #6826: Fix incorrect assertion examples in DynamoDbIgnoreNulls Javadoc](https://github.com/aws/aws-sdk-java-v2/pull/6826)
 
-  안녕은 만났을 때와 헤어질 때 모두 사용할 수 있는 인삿말입니다.
-  이제 사회의 첫 발을 딛으며 학생을 졸업하는 채현영이 사회에게 인사하고자 "안녕, world!"라는 인삿말을 붙였습니다.
+[**spring-cloud/spring-cloud-gateway**](https://github.com/spring-cloud/spring-cloud-gateway)  
+[PR #4116: Document Path predicate fully expanded argument format](https://github.com/spring-cloud/spring-cloud-gateway/pull/4116)
 
-  > “효율성을 위해 오늘도 달립니다.”
-  
-  호기심이 생기면 바로 도전하며 효율적인 업무 수행을 위해 늘 고민합니다.
-  특히 프로젝트를 진행할 때 결과물의 품질과 시간 절약을 동시에 이끌어내고자 합니다.
-  
-  > 꾸준히 성장하는 사람이 되기 위해 다짐합니다.
-  
-  멈춤은 NO! 항상 나아가기 위해 빠르게 도전하고 실행하겠습니다.
+## 기술 스택
+
+익숙해요  
+`Java` `Spring` `MySQL` `Git` `TypeScript` `React`
+
+할 줄 알아요  
+`Docker` `Linux` `Kotlin`
+
+관심 있어요  
+`Go` `Rust` `분산 시스템`
+
+## 알고리즘 문제 해결
+
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=gusdudco6)](https://solved.ac/gusdudco6)
+[![LeetCode](https://img.shields.io/badge/LeetCode-CheHyeonYeong-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/CheHyeonYeong/)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=CheHyeonYeong&utm_content=farm">
 <img
@@ -27,28 +34,16 @@
 />
 </a>
 
+## 레포 소개
 
-## 🔧 기술 스택
+[**cohiChat**](https://github.com/CheHyeonYeong/cohi-chat)  
+호스트와 게스트 간의 1:1 미팅 예약 서비스예요. Google Calendar와 연동해서 일정을 자동으로 관리해요. Spring Boot + React로 풀스택으로 만들었어요.
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+[**CodingTestStudy**](https://github.com/CheHyeonYeong/CodingTestStudy)  
+코딩 테스트 풀이 저장소예요. 백준, 프로그래머스, LeetCode 등 276문제를 풀었어요.
 
-## 📕 Latest Blog Posts
-
-<li><a href='https://code-chy.tistory.com/234' target='_blank'>DDIA-Chapter 5. 복제 (Replication)</a></li><li><a href='https://code-chy.tistory.com/233' target='_blank'>Git Submodule</a></li><li><a href='https://code-chy.tistory.com/229' target='_blank'>면접 준비 이모저모 - Spring</a></li><li><a href='https://code-chy.tistory.com/228' target='_blank'>면접 준비 이모저모 - Java 기초 개념</a></li><li><a href='https://code-chy.tistory.com/227' target='_blank'>10장: 실행 계획</a></li><li><a href='https://code-chy.tistory.com/226' target='_blank'>릴마큐 09장: 옵티마이저와 힌트</a></li><li><a href='https://code-chy.tistory.com/225' target='_blank'>이펙티브 자바 11장, 12장 직렬화 : 에러</a></li><li><a href='https://code-chy.tistory.com/224' target='_blank'>이펙티브 자바 10장 : 에러</a></li><li><a href='https://code-chy.tistory.com/223' target='_blank'>mysql 인덱스</a></li><li><a href='https://code-chy.tistory.com/222' target='_blank'>이펙티브 자바 9장: 좋은 코드를 위한 일반적인 프로그래밍 원칙 (Items 57~68)</a></li></ul>
-
-<br>
-
-## 💬 문의
-
-지금까지 안녕을 말하던 채현영이었습니다.
-혹시 커피챗이나 입사 제안을 하고 싶다면, 해당 연락처로 연락 부탁드립니다:
+## 문의
 
 - 이메일: [chehyeonyeong@gmail.com](mailto:chehyeonyeong@gmail.com)
-- GitHub: [CheHyeonYeong](https://github.com/CheHyeonYeong)
 - LinkedIn: [채현영](https://www.linkedin.com/in/%ED%98%84%EC%98%81-%EC%B1%84-8b230b255/)
-- 블로그: [CoHe](https://code-chy.tistory.com/)
-  
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff9945&height=200&section=footer)
-
+- 블로그: [velog](https://velog.io/@gusdudco6/posts) [tistory](https://code-chy.tistory.com/)
