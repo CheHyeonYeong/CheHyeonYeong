@@ -19,7 +19,7 @@
 `Docker` `Linux` `Kotlin`
 
 관심 있어요  
-`Go` `Rust` `분산 시스템`
+`TypeScript` `Svelte`
 
 ## 알고리즘 문제 해결
 
