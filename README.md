@@ -10,6 +10,9 @@
 [**spring-cloud/spring-cloud-gateway**](https://github.com/spring-cloud/spring-cloud-gateway)  
 [PR #4116: Document Path predicate fully expanded argument format](https://github.com/spring-cloud/spring-cloud-gateway/pull/4116)
 
+[**caddyserver/website**](https://github.com/caddyserver/website)  
+[PR #574: remove obsolete FLoC opt-out from header example](https://github.com/caddyserver/website/pull/574)
+
 ## 기술 스택
 
 익숙해요  
