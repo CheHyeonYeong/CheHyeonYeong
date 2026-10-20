@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9945,100:ff5f6d&height=220&section=header&text=CheHyeonYeong&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Spring&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="CheHyeonYeong banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9945,100:ff5f6d&height=220&section=header&text=CheHyeonYeong&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20TypeScript%20%C2%B7%20SvelteKit&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="CheHyeonYeong banner" />
 
 </div>
 
 # 안녕하세요, 채현영입니다 👋
 
-> 효율적인 구조를 고민하고, 꾸준히 기록하며 성장하는 **백엔드 개발자**예요.<br>
+> 효율적인 구조를 고민하고, 꾸준히 기록하며 성장하는 **풀스택 개발자**예요.<br>
 > 오픈소스에 기여하고, [velog](https://velog.io/@gusdudco6/posts)와 [tistory](https://code-chy.tistory.com/)에 배운 것을 정리하고 있어요.
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FF9945&center=true&vCenter=true&width=650&lines=Building+reliable+backends+with+Spring.;Contributing+to+open+source.;Solving+276%2B+algorithm+problems.;Writing+down+what+I+learn." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FF9945&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+SvelteKit.;Contributing+to+open+source.;Solving+276%2B+algorithm+problems.;Writing+down+what+I+learn." alt="Typing intro" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%" height="2" alt="" />
@@ -37,16 +37,12 @@
 
 <table width="100%">
   <tr>
-    <td width="22%" align="center"><b>익숙해요</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,mysql,git,ts,react&theme=dark" height="48" alt="Java, Spring, MySQL, Git, TypeScript, React" /></td>
+    <td width="22%" align="center"><b>요즘 써요</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,svelte,tailwind,postgres,python,fastapi,graphql,react,nextjs&theme=dark" height="48" alt="TypeScript, Svelte, Tailwind CSS, PostgreSQL, Python, FastAPI, GraphQL, React, Next.js" /></td>
   </tr>
   <tr>
-    <td align="center"><b>할 줄 알아요</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,linux,kotlin&theme=dark" height="48" alt="Docker, Linux, Kotlin" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>관심 있어요</b></td>
-    <td><img src="https://skillicons.dev/icons?i=svelte&theme=dark" height="48" alt="Svelte" /></td>
+    <td width="22%" align="center"><b>써 봤어요</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,kotlin,mysql,docker,linux,git&theme=dark" height="48" alt="Java, Spring, Kotlin, MySQL, Docker, Linux, Git" /></td>
   </tr>
 </table>
 
