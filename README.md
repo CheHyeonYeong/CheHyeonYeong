@@ -108,6 +108,11 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React 컴파일러](https://code-chy.tistory.com/239)
+- [새로운 React 앱 만들기](https://code-chy.tistory.com/238)
+- [React로 사고하기](https://code-chy.tistory.com/237)
+- [react 시작하기](https://code-chy.tistory.com/236)
+- [DDIA-Chapter 5. 복제 &lpar;Replication&rpar;](https://code-chy.tistory.com/234)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
