@@ -17,11 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CheHyeonYeong?tab=followers"><img src="https://img.shields.io/github/followers/CheHyeonYeong?style=flat-square&color=ff9945&label=Followers" alt="GitHub followers" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/CheHyeonYeong"><img src="https://komarev.com/ghpvc/?username=CheHyeonYeong&style=flat-square&color=ff9945&label=Profile+Views" alt="Profile views" /></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FF9945&center=true&vCenter=true&width=650&lines=Building+reliable+backends+with+Spring.;Contributing+to+open+source.;Solving+276%2B+algorithm+problems.;Writing+down+what+I+learn." alt="Typing intro" />
 </p>
 
@@ -29,11 +24,16 @@
 
 ## 🌱 Open Source Contribution
 
-| Repository | Pull Request |
-|---|---|
-| [**aws/aws-sdk-java-v2**](https://github.com/aws/aws-sdk-java-v2) | [#6826](https://github.com/aws/aws-sdk-java-v2/pull/6826) Fix incorrect assertion examples in `DynamoDbIgnoreNulls` Javadoc |
-| [**spring-cloud/spring-cloud-gateway**](https://github.com/spring-cloud/spring-cloud-gateway) | [#4116](https://github.com/spring-cloud/spring-cloud-gateway/pull/4116) Document Path predicate fully expanded argument format |
-| [**caddyserver/website**](https://github.com/caddyserver/website) | [#574](https://github.com/caddyserver/website/pull/574) Remove obsolete FLoC opt-out from header example |
+| Repository | Pull Request | Status |
+|---|---|---|
+| [**drizzle-team/drizzle-orm**](https://github.com/drizzle-team/drizzle-orm) | [#6532](https://github.com/drizzle-team/drizzle-orm/pull/6532) [SQLite] Place `onConflictDoNothing` target where before do nothing | ![Open](https://img.shields.io/badge/-Open-238636?style=flat-square) |
+| [**aws/aws-sdk-java-v2**](https://github.com/aws/aws-sdk-java-v2) | [#6826](https://github.com/aws/aws-sdk-java-v2/pull/6826) Fix incorrect assertion examples in `DynamoDbIgnoreNulls` Javadoc | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square) |
+| [**spring-cloud/spring-cloud-gateway**](https://github.com/spring-cloud/spring-cloud-gateway) | [#4116](https://github.com/spring-cloud/spring-cloud-gateway/pull/4116) Document Path predicate fully expanded argument format | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square) |
+| [**caddyserver/website**](https://github.com/caddyserver/website) | [#574](https://github.com/caddyserver/website/pull/574) Remove obsolete FLoC opt-out from header example | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square) |
+| [**hyunbinseo/svelte-kit-template**](https://github.com/hyunbinseo/svelte-kit-template) | [#31](https://github.com/hyunbinseo/svelte-kit-template/pull/31) 인증번호 재사용 차단 및 시도 횟수 검사 원자화 | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square) |
+| [**hyunbinseo/svelte-kit-template**](https://github.com/hyunbinseo/svelte-kit-template) | [#32](https://github.com/hyunbinseo/svelte-kit-template/pull/32) 인증 성공 시점에 사용자 생성 | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square) |
+| [**hyunbinseo/svelte-kit-template**](https://github.com/hyunbinseo/svelte-kit-template) | [#34](https://github.com/hyunbinseo/svelte-kit-template/pull/34) Inline form attributes and drop `FormAttributes` | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square) |
+| [**hyunbinseo/new-request**](https://github.com/hyunbinseo/new-request) | [#16](https://github.com/hyunbinseo/new-request/pull/16) Add Bizgo v1 reservation API (registration + management) | ![Open](https://img.shields.io/badge/-Open-238636?style=flat-square) |
 
 ## 🛠️ Tech Stack
 
