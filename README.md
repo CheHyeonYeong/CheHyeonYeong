@@ -2,6 +2,14 @@
 
 안녕하세요. 최근에 [velog](https://velog.io/@gusdudco6/posts)와 [tistory](https://code-chy.tistory.com/)를 운영하고 있어요.
 
+## Pacman eats my daily GiHub Contributions
+
+<img
+  src="https://raw.githubusercontent.com/CheHyeonYeong/CheHyeonYeong/output/pacman-contribution-graph-dark.svg?v=1"
+  alt="Snake animation"
+/>
+---
+
 ## Open Source Contribution
 
 [**aws/aws-sdk-java-v2**](https://github.com/aws/aws-sdk-java-v2)  
