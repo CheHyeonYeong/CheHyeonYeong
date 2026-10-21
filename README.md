@@ -95,8 +95,12 @@
 
 ## 🐾 My Farm
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=CheHyeonYeong&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/CheHyeonYeong" width="100%" alt="GitAnimals farm" />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=CheHyeonYeong&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/CheHyeonYeong"
+  width="600"
+  height="300"
+/>
 </a>
 
 ## ✍️ Latest Blog Posts
