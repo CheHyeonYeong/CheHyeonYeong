@@ -26,7 +26,6 @@
 
 | Repository | Pull Request | Status |
 |---|---|---|
-| [**drizzle-team/drizzle-orm**](https://github.com/drizzle-team/drizzle-orm) | [#6532](https://github.com/drizzle-team/drizzle-orm/pull/6532) [SQLite] Place `onConflictDoNothing` target where before do nothing | ![Open](https://img.shields.io/badge/-Open-238636?style=flat-square) |
 | [**aws/aws-sdk-java-v2**](https://github.com/aws/aws-sdk-java-v2) | [#6826](https://github.com/aws/aws-sdk-java-v2/pull/6826) Fix incorrect assertion examples in `DynamoDbIgnoreNulls` Javadoc | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square) |
 | [**spring-cloud/spring-cloud-gateway**](https://github.com/spring-cloud/spring-cloud-gateway) | [#4116](https://github.com/spring-cloud/spring-cloud-gateway/pull/4116) Document Path predicate fully expanded argument format | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square) |
 | [**caddyserver/website**](https://github.com/caddyserver/website) | [#574](https://github.com/caddyserver/website/pull/574) Remove obsolete FLoC opt-out from header example | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square) |
