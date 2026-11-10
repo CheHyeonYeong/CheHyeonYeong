@@ -61,7 +61,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=CheHyeonYeong&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=ff9945&icon_color=ff9945&bg_color=0D1117" alt="GitHub stats" width="100%" />
+      <img src="https://raw.githubusercontent.com/CheHyeonYeong/CheHyeonYeong/output/stats.svg" alt="GitHub stats" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://streak-stats.demolab.com/?user=CheHyeonYeong&theme=dark&hide_border=true&background=0D1117&ring=ff9945&fire=ff9945&currStreakNum=ff9945&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" width="100%" />
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=CheHyeonYeong&layout=compact&theme=github_dark&hide_border=true&title_color=ff9945&bg_color=0D1117" alt="Top languages" width="100%" />
+      <img src="https://raw.githubusercontent.com/CheHyeonYeong/CheHyeonYeong/output/top-langs.svg" alt="Top languages" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CheHyeonYeong&theme=github_dark" alt="Repos per language" width="100%" />
