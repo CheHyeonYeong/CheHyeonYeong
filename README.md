@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheHyeonYeong&layout=compact&theme=github_dark&hide_border=true&title_color=ff9945&bg_color=0D1117" alt="Top languages" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=CheHyeonYeong&layout=compact&theme=github_dark&hide_border=true&title_color=ff9945&bg_color=0D1117" alt="Top languages" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CheHyeonYeong&theme=github_dark" alt="Repos per language" width="100%" />
